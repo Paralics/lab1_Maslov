@@ -9,6 +9,9 @@
 
 
 Выполнил скрипт из файла с помощью команды *bash*.  
+![image](https://github.com/user-attachments/assets/a20a90fb-a842-409e-b244-96ea5d2ff779)
+
+
 Открыл для редактирования файл, вписал туда следующий скрипт:  
 >#!/bin/bash  
 echo "Welcome," $@  
